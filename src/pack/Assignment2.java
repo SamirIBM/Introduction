@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class Assignment2 {
 //Let's try once more
+//Assignment 2 updated
 	public static void main(String[] args)throws InterruptedException {
 		// TODO Auto-generated method stub
 
