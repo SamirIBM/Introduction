@@ -12,6 +12,7 @@ public class Assignment2 {
 //Fixing the Assignment2.java
 //For GIT Karen
 //For GIT ammend commit
+//For branching
 	public static void main(String[] args)throws InterruptedException {
 		// TODO Auto-generated method stub
 
