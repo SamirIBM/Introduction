@@ -9,6 +9,7 @@ public class Assignment2 {
 
 //Assignment 2 updated
 //Git desktop version
+//Fixing the Assignment2.java
 	public static void main(String[] args)throws InterruptedException {
 		// TODO Auto-generated method stub
 
