@@ -11,6 +11,7 @@ public class Assignment2 {
 //Git desktop version
 //Fixing the Assignment2.java
 //For GIT Karen
+//For GIT ammend commit
 	public static void main(String[] args)throws InterruptedException {
 		// TODO Auto-generated method stub
 
