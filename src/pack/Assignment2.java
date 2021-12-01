@@ -13,6 +13,7 @@ public class Assignment2 {
 //For GIT Karen
 //For GIT ammend commit
 //For branching
+//Life
 	public static void main(String[] args)throws InterruptedException {
 		// TODO Auto-generated method stub
 
