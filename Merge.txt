@@ -1,1 +1,2 @@
 My merge
+Merge line 2
