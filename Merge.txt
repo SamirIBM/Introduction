@@ -1,6 +1,3 @@
 My merge
-<<<<<<< HEAD
-Merge Line 3
-=======
 Merge line 2
->>>>>>> conflict1
+Merge Line 3
